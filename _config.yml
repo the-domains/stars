@@ -1,0 +1,14 @@
+layout_spectrum: 0.7406015
+color:
+  saturation: 0.9143015
+  lightness: 0.7300497
+  brandStrength: 0.797619
+  brandColors:
+    - '#010C1F'
+    - '#E8EFE9'
+    - '#54F3B6'
+    - '#7F7880'
+    - '#FF5B77'
+  rhythmicContrast: 0.5311925
+typography_spectrum: 0.7221643
+name: Stars
